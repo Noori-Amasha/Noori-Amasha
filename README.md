@@ -57,22 +57,21 @@
 
 <p align="center">
   <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=Noori-Amasha&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noori-Amasha&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://raw.githubusercontent.com/Noori-Amasha/Noori-Amasha/main/profile-summary-card-output/github_dark/0-profile-details.svg"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Noori-Amasha&theme=tokyonight&hide_border=true"
+    width="48%"
+    src="https://raw.githubusercontent.com/Noori-Amasha/Noori-Amasha/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+  />
+
+  <img
+    width="48%"
+    src="https://raw.githubusercontent.com/Noori-Amasha/Noori-Amasha/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
   />
 </p>
-
 
 
 ## 🌐 Connect With Me
