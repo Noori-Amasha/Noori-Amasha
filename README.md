@@ -52,7 +52,7 @@
 </p>
 
 ---
-<!--
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -72,7 +72,7 @@
     src="https://streak-stats.demolab.com?user=Noori-Amasha&theme=tokyonight&hide_border=true"
   />
 </p>
--->
+
 
 
 ## 🌐 Connect With Me
@@ -86,6 +86,10 @@
   <a href="https://www.linkedin.com/in/amasha-kahandawa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+  <a href="https://amasha-kahandawa.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white">
+</a>
 
   
 
