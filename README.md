@@ -52,7 +52,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -72,8 +72,8 @@
     src="https://streak-stats.demolab.com?user=Noori-Amasha&theme=tokyonight&hide_border=true"
   />
 </p>
+-->
 
----
 
 ## 🌐 Connect With Me
 
