@@ -52,26 +52,48 @@
 </p>
 
 ---
-
 ## 📊 GitHub Analytics
 
+<!-- Profile Views -->
 <p align="center">
   <img
+    src="https://komarev.com/ghpvc/?username=Noori-Amasha&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Noori Amasha Profile Views"
+  />
+</p>
+
+<!-- GitHub Profile Summary -->
+<p align="center">
+  <img
+    width="95%"
     src="https://raw.githubusercontent.com/Noori-Amasha/Noori-Amasha/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+    alt="GitHub Profile Details"
   />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
   <img
     width="48%"
-    src="https://raw.githubusercontent.com/Noori-Amasha/Noori-Amasha/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"
+    src="https://github-readme-stats.vercel.app/api?username=Noori-Amasha&show_icons=true&theme=github_dark&hide_border=true"
+    alt="GitHub Stats"
   />
 
   <img
     width="48%"
-    src="https://raw.githubusercontent.com/Noori-Amasha/Noori-Amasha/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noori-Amasha&layout=compact&langs_count=10&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
   />
 </p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Noori-Amasha&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
 
 
 ## 🌐 Connect With Me
